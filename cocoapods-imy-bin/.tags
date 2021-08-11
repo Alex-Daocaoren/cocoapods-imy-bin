@@ -1,0 +1,474 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Acknowledgements	./lib/cocoapods-imy-bin/native/acknowledgements.rb	/^    class Acknowledgements$/;"	c	class:Pod.Generator
+Analyzer	./lib/cocoapods-imy-bin/native/analyzer.rb	/^    class Analyzer$/;"	c	class:Pod.Installer
+Analyzer	./lib/cocoapods-imy-bin/native/sandbox_analyzer.rb	/^    class Analyzer$/;"	c	class:Pod.Installer
+Archive	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^      class Archive < Bin$/;"	c	class:Pod.Command.Bin
+Asker	./lib/cocoapods-imy-bin/config/config_asker.rb	/^    class Asker$/;"	c	class:CBin.Config
+Asker	./lib/cocoapods-imy-bin/config/config_hot_key_asker.rb	/^    class Asker$/;"	c	class:CBin.Config_Hot_Key
+Auto	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^      class Auto < Bin$/;"	c	class:Pod.Command.Bin
+Bin	./lib/cocoapods-imy-bin/command/bin.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/code.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/imy.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/init.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/install.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Bin	./lib/cocoapods-imy-bin/command/bin/update.rb	/^    class Bin < Command$/;"	c	class:Pod.Command
+Build	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^  class Build$/;"	c	class:CBin
+Build	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^  class Build$/;"	c	class:CBin
+Builder	./lib/cocoapods-imy-bin/config/config_builder.rb	/^    class Builder$/;"	c	class:CBin.Config
+Builder	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^    class Builder$/;"	c	class:CBin.Framework
+Builder	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^    class Builder$/;"	c	class:CBin.Library
+CBin	./lib/cocoapods-imy-bin/config/config.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/config/config_asker.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/config/config_builder.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/config/config_hot_key_asker.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/gem_version.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/framework.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/library.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/sources_helper.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^module CBin$/;"	m
+CBin	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^module CBin$/;"	m
+Cache	./lib/cocoapods-imy-bin/native/installer.rb	/^    class Cache$/;"	c	class:Downloader
+Code	./lib/cocoapods-imy-bin/command/bin/code.rb	/^      class Code < Bin$/;"	c	class:Pod.Command.Bin
+Command	./lib/cocoapods-imy-bin/command/bin.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/code.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/imy.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/init.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/install.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^  class Command$/;"	c	class:Pod
+Command	./lib/cocoapods-imy-bin/command/bin/update.rb	/^  class Command$/;"	c	class:Pod
+Config	./lib/cocoapods-imy-bin/config/config.rb	/^  class Config$/;"	c	class:CBin
+Config	./lib/cocoapods-imy-bin/config/config_asker.rb	/^  class Config$/;"	c	class:CBin
+Config	./lib/cocoapods-imy-bin/config/config_builder.rb	/^  class Config$/;"	c	class:CBin
+Config_Hot_Key	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^  class Config_Hot_Key$/;"	c	class:CBin
+Config_Hot_Key	./lib/cocoapods-imy-bin/config/config_hot_key_asker.rb	/^  class Config_Hot_Key$/;"	c	class:CBin
+Create	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^        class Create < Spec$/;"	c	class:Pod.Command.Bin.Spec
+Creator	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^    class Creator$/;"	c	class:CBin.Specification
+Creator	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^    class Creator$/;"	c	class:CBin.SpecificationSource
+DSL	./lib/cocoapods-imy-bin/native/podfile.rb	/^    module DSL$/;"	m	class:Pod.Podfile
+Downloader	./lib/cocoapods-imy-bin/native/installer.rb	/^  module Downloader$/;"	m
+ENVExecutor	./lib/cocoapods-imy-bin/native/podfile_env.rb	/^    module ENVExecutor$/;"	m	class:Pod.Podfile
+ExternalSources	./lib/cocoapods-imy-bin/native/path_source.rb	/^  module ExternalSources$/;"	m	class:Pod
+FileAccessor	./lib/cocoapods-imy-bin/native/file_accessor.rb	/^    class FileAccessor$/;"	c	class:Pod.Sandbox
+Framework	./lib/cocoapods-imy-bin/helpers/framework.rb	/^  class Framework$/;"	c	class:CBin
+Framework	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^  class Framework$/;"	c	class:CBin
+Generate	./lib/cocoapods-imy-bin/native/podfile_generator.rb	/^  module Generate$/;"	m	class:Pod
+Generator	./lib/cocoapods-imy-bin/native/acknowledgements.rb	/^  module Generator$/;"	m	class:Pod
+Helper	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^    class Helper$/;"	c	class:CBin.Build
+Helper	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^    class Helper$/;"	c	class:CBin.Upload
+Imy	./lib/cocoapods-imy-bin/command/bin/imy.rb	/^      class Imy < Bin$/;"	c	class:Pod.Command.Bin
+Init	./lib/cocoapods-imy-bin/command/bin/init.rb	/^      class Init < Bin$/;"	c	class:Pod.Command.Bin
+Inithk	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^      class Inithk < Bin$/;"	c	class:Pod.Command.Bin
+Install	./lib/cocoapods-imy-bin/command/bin/install.rb	/^      class Install < Bin$/;"	c	class:Pod.Command.Bin
+InstallationOptions	./lib/cocoapods-imy-bin/native/installation_options.rb	/^    class InstallationOptions$/;"	c	class:Pod.Installer
+Installer	./lib/cocoapods-imy-bin/native/analyzer.rb	/^  class Installer$/;"	c	class:Pod
+Installer	./lib/cocoapods-imy-bin/native/installation_options.rb	/^  class Installer$/;"	c	class:Pod
+Installer	./lib/cocoapods-imy-bin/native/installer.rb	/^  class Installer$/;"	c	class:Pod
+Installer	./lib/cocoapods-imy-bin/native/pod_source_installer.rb	/^  class Installer$/;"	c	class:Pod
+Installer	./lib/cocoapods-imy-bin/native/pod_target_installer.rb	/^  class Installer$/;"	c	class:Pod
+Installer	./lib/cocoapods-imy-bin/native/sandbox_analyzer.rb	/^  class Installer$/;"	c	class:Pod
+Installer	./lib/cocoapods-imy-bin/native/target_validator.rb	/^  class Installer$/;"	c	class:Pod
+LazySpecification	./lib/cocoapods-imy-bin/native/resolver.rb	/^        class LazySpecification < BasicObject$/;"	c	class:Specification.Set
+Lib	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^      class Lib < Bin$/;"	c	class:Pod.Command.Bin
+Library	./lib/cocoapods-imy-bin/helpers/library.rb	/^  class Library$/;"	c	class:CBin
+Library	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^  class Library$/;"	c	class:CBin
+Lint	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^        class Lint < Lib$/;"	c	class:Pod.Command.Bin.Lib
+Linter	./lib/cocoapods-imy-bin/native/linter.rb	/^    class Linter$/;"	c	class:Pod.Specification
+Manager	./lib/cocoapods-imy-bin/native/sources_manager.rb	/^    class Manager$/;"	c	class:Pod.Source
+PathSource	./lib/cocoapods-imy-bin/native/path_source.rb	/^    class PathSource < AbstractExternalSource$/;"	c	class:Pod.ExternalSources
+Pod	./lib/cocoapods-imy-bin/command/bin.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/code.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/imy.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/init.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/install.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/command/bin/update.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/gem_version.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/acknowledgements.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/analyzer.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/file_accessor.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/installation_options.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/installer.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/linter.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/path_source.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/pod_source_installer.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/pod_target_installer.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/podfile.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/podfile_env.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/podfile_generator.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/podspec_finder.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/resolver.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/sandbox_analyzer.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/source.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/sources_manager.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/specification.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/target_validator.rb	/^module Pod$/;"	m
+Pod	./lib/cocoapods-imy-bin/native/validator.rb	/^module Pod$/;"	m
+Pod	./spec/command/bin_spec.rb	/^module Pod$/;"	m
+Pod	./spec/spec_helper.rb	/^module Pod$/;"	m
+PodSourceInstaller	./lib/cocoapods-imy-bin/native/pod_source_installer.rb	/^    class PodSourceInstaller$/;"	c	class:Pod.Installer
+PodTargetInstaller	./lib/cocoapods-imy-bin/native/pod_target_installer.rb	/^        class PodTargetInstaller < TargetInstaller$/;"	c	class:Pod.Installer.Xcode.PodsProjectGenerator
+Podfile	./lib/cocoapods-imy-bin/native/podfile.rb	/^  class Podfile$/;"	c	class:Pod
+Podfile	./lib/cocoapods-imy-bin/native/podfile_env.rb	/^  class Podfile$/;"	c	class:Pod
+PodfileGenerator	./lib/cocoapods-imy-bin/native/podfile_generator.rb	/^    class PodfileGenerator$/;"	c	class:Pod.Generate
+PodsProjectGenerator	./lib/cocoapods-imy-bin/native/pod_target_installer.rb	/^      class PodsProjectGenerator$/;"	c	class:Pod.Installer.Xcode
+PodspecFinder	./lib/cocoapods-imy-bin/native/podspec_finder.rb	/^    class PodspecFinder$/;"	c	class:Pod.Sandbox
+Push	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^        class Push < Repo$/;"	c	class:Pod.Command.Bin.Repo
+Repo	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^      class Repo < Bin$/;"	c	class:Pod.Command.Bin
+Repo	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^      class Repo < Bin$/;"	c	class:Pod.Command.Bin
+Resolver	./lib/cocoapods-imy-bin/native/resolver.rb	/^  class Resolver$/;"	c	class:Pod
+Sandbox	./lib/cocoapods-imy-bin/native/file_accessor.rb	/^  class Sandbox$/;"	c	class:Pod
+Sandbox	./lib/cocoapods-imy-bin/native/podspec_finder.rb	/^  class Sandbox$/;"	c	class:Pod
+SandboxAnalyzer	./lib/cocoapods-imy-bin/native/sandbox_analyzer.rb	/^      class SandboxAnalyzer$/;"	c	class:Pod.Installer.Analyzer
+Set	./lib/cocoapods-imy-bin/native/resolver.rb	/^      class Set$/;"	c	class:Specification
+Source	./lib/cocoapods-imy-bin/native/source.rb	/^  class Source$/;"	c	class:Pod
+Source	./lib/cocoapods-imy-bin/native/sources_manager.rb	/^  class Source$/;"	c	class:Pod
+SourcesHelper	./lib/cocoapods-imy-bin/helpers/sources_helper.rb	/^  module SourcesHelper$/;"	m	class:CBin
+Spec	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^      class Spec < Bin$/;"	c	class:Pod.Command.Bin
+SpecFilesHelper	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^  module SpecFilesHelper$/;"	m	class:CBin
+Specification	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^  class Specification$/;"	c	class:CBin
+Specification	./lib/cocoapods-imy-bin/native/linter.rb	/^  class Specification$/;"	c	class:Pod
+Specification	./lib/cocoapods-imy-bin/native/resolver.rb	/^    class Specification$/;"	c
+Specification	./lib/cocoapods-imy-bin/native/specification.rb	/^  class Specification$/;"	c	class:Pod
+SpecificationSource	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^  class SpecificationSource$/;"	c	class:CBin
+TargetValidator	./lib/cocoapods-imy-bin/native/target_validator.rb	/^      class TargetValidator$/;"	c	class:Pod.Installer.Xcode
+UI	./spec/spec_helper.rb	/^  module UI$/;"	m	class:Pod
+Update	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^        class Update < Repo$/;"	c	class:Pod.Command.Bin.Repo
+Update	./lib/cocoapods-imy-bin/command/bin/update.rb	/^      class Update < Bin$/;"	c	class:Pod.Command.Bin
+Upload	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^  class Upload$/;"	c	class:CBin
+Utils	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^    class Utils$/;"	c	class:CBin.Build
+Validator	./lib/cocoapods-imy-bin/native/validator.rb	/^  class Validator$/;"	c	class:Pod
+Xcode	./lib/cocoapods-imy-bin/native/pod_target_installer.rb	/^    class Xcode$/;"	c	class:Pod.Installer
+Xcode	./lib/cocoapods-imy-bin/native/target_validator.rb	/^    class Xcode$/;"	c	class:Pod.Installer
+add	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def add$/;"	f	class:Pod.Command.Bin.Code
+add_swift_library_compatibility_header_phase	./lib/cocoapods-imy-bin/native/pod_target_installer.rb	/^          def add_swift_library_compatibility_header_phase(native_target)$/;"	f	class:Pod.Installer.Xcode.PodsProjectGenerator.PodTargetInstaller
+aggregate_for_dependency	./lib/cocoapods-imy-bin/native/resolver.rb	/^      def aggregate_for_dependency(dependency)$/;"	f	class:Pod.Resolver
+all_clean	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def all_clean$/;"	f	class:Pod.Command.Bin.Code
+allow_prerelease!	./lib/cocoapods-imy-bin/native/podfile.rb	/^      def allow_prerelease!$/;"	f	class:Pod.Podfile.DSL
+allow_prerelease?	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def allow_prerelease?$/;"	f	class:Pod.Podfile
+ask_with_answer	./lib/cocoapods-imy-bin/config/config_asker.rb	/^      def ask_with_answer(question, pre_answer, selection)$/;"	f	class:CBin.Config.Asker
+ask_with_answer	./lib/cocoapods-imy-bin/config/config_hot_key_asker.rb	/^      def ask_with_answer(question, pre_answer, selection)$/;"	f	class:CBin.Config_Hot_Key.Asker
+binary_json_dir	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def binary_json_dir$/;"	f	class:CBin.Config.Builder
+binary_json_dir_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def binary_json_dir_name$/;"	f	class:CBin.Config.Builder
+binary_podsepc_json	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def binary_podsepc_json$/;"	f	class:Pod.Command.Bin
+binary_public_header_files	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def binary_public_header_files$/;"	f	class:CBin.Specification
+binary_public_header_files	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def binary_public_header_files$/;"	f	class:CBin.SpecificationSource.Creator
+binary_resources	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def binary_resources$/;"	f	class:CBin.Specification
+binary_resources	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def binary_resources$/;"	f	class:CBin.SpecificationSource.Creator
+binary_source	./lib/cocoapods-imy-bin/helpers/sources_helper.rb	/^    def binary_source$/;"	f	class:CBin.SourcesHelper
+binary_source	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def binary_source$/;"	f	class:CBin.Specification
+binary_source	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def binary_source$/;"	f	class:CBin.SpecificationSource.Creator
+binary_source	./lib/cocoapods-imy-bin/native/sources_manager.rb	/^      def binary_source$/;"	f	class:Pod.Source.Manager
+binary_source_files	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def binary_source_files$/;"	f	class:CBin.Specification
+binary_source_files	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def binary_source_files$/;"	f	class:CBin.SpecificationSource.Creator
+binary_spec	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def binary_spec$/;"	f	class:CBin.SpecFilesHelper
+binary_spec_files	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def binary_spec_files$/;"	f	class:CBin.SpecFilesHelper
+binary_template_podsepc	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def binary_template_podsepc$/;"	f	class:Pod.Command.Bin
+binary_template_spec	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def binary_template_spec$/;"	f	class:CBin.SpecFilesHelper
+binary_template_spec_file	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def binary_template_spec_file$/;"	f	class:CBin.SpecFilesHelper
+binary_template_spec_files	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def binary_template_spec_files$/;"	f	class:CBin.SpecFilesHelper
+binary_upload_url	./lib/cocoapods-imy-bin/config/config.rb	/^    def binary_upload_url$/;"	f	class:CBin.Config
+binary_vendored_libraries	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def binary_vendored_libraries$/;"	f	class:CBin.Specification
+binary_vendored_libraries	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def binary_vendored_libraries$/;"	f	class:CBin.SpecificationSource.Creator
+build	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def build$/;"	f	class:CBin.Build.Helper
+build	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def build$/;"	f	class:CBin.Framework.Builder
+build	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def build$/;"	f	class:CBin.Library.Builder
+build_dependencies	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def build_dependencies$/;"	f	class:Pod.Command.Bin.Archive
+build_root_spec	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def build_root_spec$/;"	f	class:Pod.Command.Bin.Archive
+build_sim_libraries	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def build_sim_libraries(defines)$/;"	f	class:CBin.Framework
+build_static_framework	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def build_static_framework$/;"	f	class:CBin.Build
+build_static_library	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def build_static_library$/;"	f	class:CBin.Build
+build_static_library_for_ios	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def build_static_library_for_ios(output)$/;"	f	class:CBin.Framework
+check	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def check(lib_file,dir,basename)$/;"	f	class:Pod.Command.Bin.Code
+check_file_patterns	./lib/cocoapods-imy-bin/native/validator.rb	/^    def check_file_patterns$/;"	f	class:Pod.Validator
+clean	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def clean$/;"	f	class:Pod.Command.Bin.Code
+clean	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def clean$/;"	f	class:CBin.Config.Builder
+clean_source_dir	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def clean_source_dir$/;"	f	class:CBin.Library
+clean_workspace	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def clean_workspace$/;"	f	class:CBin.Build
+clear_binary_spec_file_if_needed	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def clear_binary_spec_file_if_needed$/;"	f	class:CBin.SpecFilesHelper
+clear_spec_file	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def clear_spec_file$/;"	f	class:CBin.Specification
+clear_spec_file	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def clear_spec_file$/;"	f	class:CBin.SpecificationSource.Creator
+code_podsepc_extname	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def code_podsepc_extname$/;"	f	class:Pod.Command.Bin
+code_source	./lib/cocoapods-imy-bin/helpers/sources_helper.rb	/^    def code_source$/;"	f	class:CBin.SourcesHelper
+code_source	./lib/cocoapods-imy-bin/native/sources_manager.rb	/^      def code_source$/;"	f	class:Pod.Source.Manager
+code_spec	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def code_spec$/;"	f	class:CBin.SpecFilesHelper
+code_spec_consumer	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def code_spec_consumer(_platform = :ios)$/;"	f	class:CBin.Specification
+code_spec_consumer	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def code_spec_consumer(_platform = :ios)$/;"	f	class:CBin.SpecificationSource.Creator
+code_spec_files	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def code_spec_files$/;"	f	class:CBin.SpecFilesHelper
+compile	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def compile$/;"	f	class:CBin.Framework
+config	./lib/cocoapods-imy-bin/config/config.rb	/^    def config$/;"	f	class:CBin.Config
+config	./lib/cocoapods-imy-bin/config/config.rb	/^  def self.config$/;"	F	class:CBin
+config	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def config$/;"	f	class:CBin.Config_Hot_Key
+config_debug_iphoneos_file	./lib/cocoapods-imy-bin/config/config.rb	/^    def config_debug_iphoneos_file$/;"	f	class:CBin.Config
+config_dev_file	./lib/cocoapods-imy-bin/config/config.rb	/^    def config_dev_file$/;"	f	class:CBin.Config
+config_file	./lib/cocoapods-imy-bin/config/config.rb	/^    def config_file$/;"	f	class:CBin.Config
+config_file	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def config_file$/;"	f	class:CBin.Config_Hot_Key
+config_file_whith_hot_key_index	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def config_file_whith_hot_key_index(hot_key_index)$/;"	f	class:CBin.Config_Hot_Key
+config_file_with_configuration_env	./lib/cocoapods-imy-bin/config/config.rb	/^    def config_file_with_configuration_env(configuration_env)$/;"	f	class:CBin.Config
+config_file_with_hot_key_index	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def config_file_with_hot_key_index(hot_key_index)$/;"	f	class:CBin.Config_Hot_Key
+config_hot_key	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^  def self.config_hot_key$/;"	F	class:CBin
+config_release_iphoneos_file	./lib/cocoapods-imy-bin/config/config.rb	/^    def config_release_iphoneos_file$/;"	f	class:CBin.Config
+config_with_asker	./lib/cocoapods-imy-bin/command/bin/init.rb	/^        def config_with_asker$/;"	f	class:Pod.Command.Bin.Init
+config_with_asker	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^        def config_with_asker$/;"	f	class:Pod.Command.Bin.Inithk
+config_with_url	./lib/cocoapods-imy-bin/command/bin/init.rb	/^        def config_with_url(url)$/;"	f	class:Pod.Command.Bin.Init
+config_with_url	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^        def config_with_url(url)$/;"	f	class:Pod.Command.Bin.Inithk
+configuration_env	./lib/cocoapods-imy-bin/config/config.rb	/^    def configuration_env$/;"	f	class:CBin.Config
+configuration_env	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def configuration_env$/;"	f	class:Pod.Podfile
+copy_headers	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def copy_headers$/;"	f	class:CBin.Framework
+copy_headers	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def copy_headers$/;"	f	class:CBin.Library
+copy_library	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def copy_library$/;"	f	class:CBin.Library
+copy_license	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def copy_license$/;"	f	class:CBin.Framework
+copy_resources	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def copy_resources$/;"	f	class:CBin.Framework
+copy_resources	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def copy_resources$/;"	f	class:CBin.Library
+cp_to_source_dir	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def cp_to_source_dir$/;"	f	class:CBin.Framework
+cp_to_source_dir	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def cp_to_source_dir$/;"	f	class:CBin.Library
+create	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def create$/;"	f	class:CBin.Specification.Creator
+create	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def create$/;"	f	class:CBin.SpecificationSource.Creator
+create_binary_spec_file	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def create_binary_spec_file(code_spec, template_spec)$/;"	f	class:CBin.SpecFilesHelper
+create_framework_from_code_spec	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def create_framework_from_code_spec$/;"	f	class:CBin.SpecificationSource.Creator
+create_from_code_spec	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def create_from_code_spec$/;"	f	class:CBin.Specification
+create_from_code_spec	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def create_from_code_spec$/;"	f	class:CBin.SpecificationSource.Creator
+create_from_code_spec_and_template_spec	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def create_from_code_spec_and_template_spec$/;"	f	class:CBin.Specification
+create_pod_installer	./lib/cocoapods-imy-bin/native/installer.rb	/^    def create_pod_installer(pod_name)$/;"	f	class:Pod.Installer
+curl_zip	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^      def curl_zip$/;"	f	class:CBin.Upload.Helper
+default_config	./lib/cocoapods-imy-bin/config/config.rb	/^    def default_config$/;"	f	class:CBin.Config
+default_config	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def default_config$/;"	f	class:CBin.Config_Hot_Key
+delete_resources	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def delete_resources$/;"	f	class:CBin.Framework
+delete_resources	./lib/cocoapods-imy-bin/helpers/library.rb	/^    def delete_resources$/;"	f	class:CBin.Library
+done_message	./lib/cocoapods-imy-bin/config/config_asker.rb	/^      def done_message$/;"	f	class:CBin.Config.Asker
+done_message	./lib/cocoapods-imy-bin/config/config_hot_key_asker.rb	/^      def done_message$/;"	f	class:CBin.Config_Hot_Key.Asker
+download_source	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def download_source(name)$/;"	f	class:Pod.Command.Bin.Code
+dynamic_binary?	./lib/cocoapods-imy-bin/native/file_accessor.rb	/^     def dynamic_binary?(binary)$/;"	f	class:Pod.Sandbox.FileAccessor
+ensure_matching_version	./lib/cocoapods-imy-bin/native/installer.rb	/^      def ensure_matching_version$/;"	f	class:Downloader.Cache
+env_option	./lib/cocoapods-imy-bin/native/installation_options.rb	/^      def self.env_option(key, default = true)$/;"	F	class:Pod.Installer.InstallationOptions
+execute_with_allow_prerelease	./lib/cocoapods-imy-bin/native/podfile_env.rb	/^      def execute_with_allow_prerelease(allow_prerelease, &block)$/;"	f	class:Pod.Podfile.ENVExecutor
+execute_with_bin_plugin	./lib/cocoapods-imy-bin/native/podfile_env.rb	/^      def execute_with_bin_plugin(&block)$/;"	f	class:Pod.Podfile.ENVExecutor
+execute_with_key	./lib/cocoapods-imy-bin/native/podfile_env.rb	/^      def execute_with_key(key, value_returner)$/;"	f	class:Pod.Podfile.ENVExecutor
+execute_with_use_binaries	./lib/cocoapods-imy-bin/native/podfile_env.rb	/^      def execute_with_use_binaries(use_binaries, &block)$/;"	f	class:Pod.Podfile.ENVExecutor
+expand_paths	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def expand_paths(source_dir, path_specs)$/;"	f	class:CBin.Framework.copy_resources
+fetch_external_source	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def fetch_external_source(dependency ,podfile , lockfile, sandbox,use_lockfile_options)$/;"	f	class:Pod.Command.Bin.Code
+filename	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def filename$/;"	f	class:CBin.Specification
+filename	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def filename$/;"	f	class:CBin.SpecificationSource.Creator
+find_dependency	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def find_dependency (name)$/;"	f	class:Pod.Command.Bin.Code
+find_podspec	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def find_podspec$/;"	f	class:Pod.Command
+find_spec_file	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def find_spec_file(podspec)$/;"	f	class:CBin.SpecFilesHelper
+framework	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def framework$/;"	f	class:CBin.Framework.copy_resources
+framework	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def framework$/;"	f	class:CBin.Library
+framework_contents	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def framework_contents(name)$/;"	f	class:CBin.Specification
+framework_contents	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def framework_contents(name)$/;"	f	class:CBin.SpecificationSource.Creator
+framework_file	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def framework_file(spec)$/;"	f	class:CBin.Config.Builder
+framework_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def framework_name(spec)$/;"	f	class:CBin.Config.Builder
+framework_name	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def framework_name$/;"	f	class:CBin.Build
+framework_name_version	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def framework_name_version(spec)$/;"	f	class:CBin.Config.Builder
+framework_name_zip	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def framework_name_zip$/;"	f	class:CBin.Build
+framework_zip_file	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def framework_zip_file(spec)$/;"	f	class:CBin.Config.Builder
+gen_dir	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def gen_dir$/;"	f	class:CBin.Config.Builder
+gen_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def gen_name$/;"	f	class:CBin.Config.Builder
+gen_name	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def gen_name$/;"	f	class:CBin.Build
+generate_project	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def generate_project$/;"	f	class:Pod.Command.Bin.Archive
+get_internal_hash_value	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def get_internal_hash_value(key, default = nil)$/;"	f	class:Pod.Podfile
+get_lib_path	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def get_lib_path(name)$/;"	f	class:Pod.Command.Bin.Code
+hot_key_index	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def hot_key_index$/;"	f	class:CBin.Config_Hot_Key
+ignore_git_list	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def ignore_git_list$/;"	f	class:CBin.Config.Builder
+ignore_http_list	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def ignore_http_list$/;"	f	class:CBin.Config.Builder
+initialize	./lib/cocoapods-imy-bin/command/bin.rb	/^      def initialize(argv)$/;"	f	class:Pod.Command.Bin
+initialize	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Archive
+initialize	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Auto
+initialize	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Code
+initialize	./lib/cocoapods-imy-bin/command/bin/imy.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Imy
+initialize	./lib/cocoapods-imy-bin/command/bin/init.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Init
+initialize	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Inithk
+initialize	./lib/cocoapods-imy-bin/command/bin/install.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Install
+initialize	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^          def initialize(argv)$/;"	f	class:Pod.Command.Bin.Lib.Lint
+initialize	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^          def initialize(argv)$/;"	f	class:Pod.Command.Bin.Repo.Update
+initialize	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^          def initialize(argv)$/;"	f	class:Pod.Command.Bin.Spec.Create
+initialize	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^          def initialize(argv)$/;"	f	class:Pod.Command.Bin.Repo.Push
+initialize	./lib/cocoapods-imy-bin/command/bin/update.rb	/^        def initialize(argv)$/;"	f	class:Pod.Command.Bin.Update
+initialize	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def initialize$/;"	f	class:CBin.Config.Builder
+initialize	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def initialize(spec,$/;"	f	class:CBin.Build.Helper
+initialize	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def initialize(name, platform)$/;"	f	class:CBin.Framework
+initialize	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def initialize(spec, file_accessor, platform, source_dir, isRootSpec = true, build_model="Debug")$/;"	f	class:CBin.Framework.Builder
+initialize	./lib/cocoapods-imy-bin/helpers/library.rb	/^    def initialize(name, platform, version)$/;"	f	class:CBin.Library
+initialize	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def initialize(spec, file_accessor, platform, source_dir,framework_path)$/;"	f	class:CBin.Library.Builder
+initialize	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def initialize(code_spec, template_spec, platforms = 'ios')$/;"	f	class:CBin.Specification.Creator
+initialize	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def initialize(code_spec, platforms = 'ios')$/;"	f	class:CBin.SpecificationSource.Creator
+initialize	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^      def initialize(spec,code_dependencies,sources)$/;"	f	class:CBin.Upload.Helper
+install_pod_sources	./lib/cocoapods-imy-bin/native/installer.rb	/^    def install_pod_sources$/;"	f	class:Pod.Installer
+install_pod_sources_for_version_above_1_5_0	./lib/cocoapods-imy-bin/native/installer.rb	/^    def install_pod_sources_for_version_above_1_5_0$/;"	f	class:Pod
+install_pod_sources_for_version_in_1_4_0	./lib/cocoapods-imy-bin/native/installer.rb	/^    def install_pod_sources_for_version_in_1_4_0$/;"	f	class:Pod.Installer
+instance	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def self.instance$/;"	F	class:CBin.Config.Builder
+ios_architectures	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def ios_architectures$/;"	f	class:CBin.Framework
+ios_architectures_sim	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def ios_architectures_sim$/;"	f	class:CBin.Framework
+ios_build_options	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def ios_build_options$/;"	f	class:CBin.Framework
+is_debug_model	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def is_debug_model$/;"	f	class:CBin.Framework
+is_framework	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^      def Utils.is_framework(spec)$/;"	F	class:CBin.Build.Utils
+is_swift_module	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^      def Utils.is_swift_module(spec)$/;"	F	class:CBin.Build.Utils
+library	./lib/cocoapods-imy-bin/helpers/library_builder.rb	/^      def library$/;"	f	class:CBin.Library
+library_file	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def library_file(spec)$/;"	f	class:CBin.Config.Builder
+library_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def library_name(spec)$/;"	f	class:CBin.Config.Builder
+library_name	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def library_name$/;"	f	class:CBin.Build
+library_name_version	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def library_name_version(name,version)$/;"	f	class:CBin.Config.Builder
+license_text	./lib/cocoapods-imy-bin/native/acknowledgements.rb	/^      def license_text(spec)$/;"	f	class:Pod.Generator.Acknowledgements
+link	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def link(lib_file,target_path,basename)$/;"	f	class:Pod.Command.Bin.Code
+lipo_build	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def lipo_build(defines)$/;"	f	class:CBin.Framework.Builder
+list	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def list$/;"	f	class:Pod.Command.Bin.Code
+load_build_config	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def load_build_config$/;"	f	class:CBin.Config.Builder
+load_config	./lib/cocoapods-imy-bin/config/config.rb	/^    def load_config$/;"	f	class:CBin.Config
+load_config	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def load_config$/;"	f	class:CBin.Config_Hot_Key
+load_local_podfile	./lib/cocoapods-imy-bin/command/bin/update.rb	/^        def self.load_local_podfile$/;"	F	class:Pod.Command.Bin.Update
+local_psec_dir	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def local_psec_dir$/;"	f	class:CBin.Config.Builder
+local_spec_dir_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def local_spec_dir_name$/;"	f	class:CBin.Config.Builder
+make	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def make$/;"	f	class:CBin.Framework
+make	./lib/cocoapods-imy-bin/helpers/library.rb	/^    def make$/;"	f	class:CBin.Library
+make_current_version	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def make_current_version$/;"	f	class:CBin.Framework
+make_framework	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def make_framework$/;"	f	class:CBin.Framework
+make_headers	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def make_headers$/;"	f	class:CBin.Framework
+make_headers	./lib/cocoapods-imy-bin/helpers/library.rb	/^    def make_headers$/;"	f	class:CBin.Library
+make_library	./lib/cocoapods-imy-bin/helpers/library.rb	/^    def make_library$/;"	f	class:CBin.Library
+make_resources	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def make_resources$/;"	f	class:CBin.Framework
+make_resources	./lib/cocoapods-imy-bin/helpers/library.rb	/^    def make_resources$/;"	f	class:CBin.Library
+make_root	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def make_root$/;"	f	class:CBin.Framework
+make_root	./lib/cocoapods-imy-bin/helpers/library.rb	/^    def make_root$/;"	f	class:CBin.Library
+match_version	./lib/cocoapods-imy-bin/gem_version.rb	/^  def self.match_version?(*version)$/;"	F	class:Pod
+method_missing	./lib/cocoapods-imy-bin/config/config.rb	/^    def method_missing(method, *args, &block)$/;"	f	class:CBin.Config
+method_missing	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def method_missing(method, *args, &block)$/;"	f	class:CBin.Config_Hot_Key
+missing_binary_specs	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def Archive.missing_binary_specs(missing_binary_specs)$/;"	F	class:Pod.Command.Bin.Archive
+normalized_podspec_path	./lib/cocoapods-imy-bin/native/path_source.rb	/^      def normalized_podspec_path(declared_path)$/;"	f	class:Pod.ExternalSources.PathSource
+options	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Archive
+options	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Auto
+options	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Code
+options	./lib/cocoapods-imy-bin/command/bin/imy.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Imy
+options	./lib/cocoapods-imy-bin/command/bin/init.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Init
+options	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Inithk
+options	./lib/cocoapods-imy-bin/command/bin/install.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Install
+options	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^          def self.options$/;"	F	class:Pod.Command.Bin.Lib.Lint
+options	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^          def self.options$/;"	F	class:Pod.Command.Bin.Repo.Update
+options	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^          def self.options$/;"	F	class:Pod.Command.Bin.Spec.Create
+options	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^          def self.options$/;"	F	class:Pod.Command.Bin.Repo.Push
+options	./lib/cocoapods-imy-bin/command/bin/update.rb	/^        def self.options$/;"	F	class:Pod.Command.Bin.Update
+perform_extensive_analysis	./lib/cocoapods-imy-bin/native/validator.rb	/^    def perform_extensive_analysis(spec)$/;"	f	class:Pod.Validator
+plugins	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def plugins$/;"	f	class:Pod.Podfile
+podfile_for_spec	./lib/cocoapods-imy-bin/native/podfile_generator.rb	/^      def podfile_for_spec(spec)$/;"	f	class:Pod.Generate.PodfileGenerator
+podspecs	./lib/cocoapods-imy-bin/native/podspec_finder.rb	/^      def podspecs$/;"	f	class:Pod.Sandbox.PodspecFinder
+print	./spec/spec_helper.rb	/^      def print(message)$/;"	f	class:Pod.UI
+push_binary_repo	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^      def push_binary_repo(binary_podsepc_json)$/;"	f	class:CBin.Upload.Helper
+puts	./spec/spec_helper.rb	/^      def puts(message = '')$/;"	f	class:Pod.UI
+remove_current_version	./lib/cocoapods-imy-bin/helpers/framework.rb	/^    def remove_current_version$/;"	f	class:CBin.Framework
+repo	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^          def repo$/;"	f	class:Pod.Command.Bin.Repo
+requirement_satisfied_by?	./lib/cocoapods-imy-bin/native/resolver.rb	/^      def requirement_satisfied_by?(requirement, activated, spec)$/;"	f	class:Pod
+respond_to?	./lib/cocoapods-imy-bin/native/resolver.rb	/^          def respond_to?(method, include_all = false)$/;"	f	class:Specification.Set.LazySpecification
+respond_to_missing?	./lib/cocoapods-imy-bin/config/config.rb	/^    def respond_to_missing?(method, include_private = false)$/;"	f	class:CBin.Config
+respond_to_missing?	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def respond_to_missing?(method, include_private = false)$/;"	f	class:CBin.Config_Hot_Key
+root_dir	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def root_dir$/;"	f	class:CBin.Config.Builder
+run	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Archive
+run	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Auto
+run	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Code
+run	./lib/cocoapods-imy-bin/command/bin/imy.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Imy
+run	./lib/cocoapods-imy-bin/command/bin/init.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Init
+run	./lib/cocoapods-imy-bin/command/bin/initHotKey.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Inithk
+run	./lib/cocoapods-imy-bin/command/bin/install.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Install
+run	./lib/cocoapods-imy-bin/command/bin/lib/lint.rb	/^          def run$/;"	f	class:Pod.Command.Bin.Lib.Lint
+run	./lib/cocoapods-imy-bin/command/bin/repo/update.rb	/^          def run$/;"	f	class:Pod.Command.Bin.Repo.Update
+run	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^          def run$/;"	f	class:Pod.Command.Bin.Spec.Create
+run	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^          def run$/;"	f	class:Pod.Command.Bin.Repo.Push
+run	./lib/cocoapods-imy-bin/command/bin/update.rb	/^        def run$/;"	f	class:Pod.Command.Bin.Update
+run_archive	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def run_archive$/;"	f	class:Pod.Command.Bin
+set_configuration_env	./lib/cocoapods-imy-bin/config/config.rb	/^    def set_configuration_env(env)$/;"	f	class:CBin.Config
+set_configuration_env	./lib/cocoapods-imy-bin/native/podfile.rb	/^      def set_configuration_env(env = "dev")$/;"	f	class:Pod.Podfile.DSL
+set_hot_key_index	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def set_hot_key_index(hot_key_index)$/;"	f	class:CBin.Config_Hot_Key
+set_internal_hash_value	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def set_internal_hash_value(key, value)$/;"	f	class:Pod.Podfile
+set_use_source_pods	./lib/cocoapods-imy-bin/native/podfile.rb	/^      def set_use_source_pods(pods)$/;"	f	class:Pod.Podfile.DSL
+show_prompt	./lib/cocoapods-imy-bin/config/config_asker.rb	/^      def show_prompt$/;"	f	class:CBin.Config.Asker
+show_prompt	./lib/cocoapods-imy-bin/config/config_hot_key_asker.rb	/^      def show_prompt$/;"	f	class:CBin.Config_Hot_Key.Asker
+source_root	./lib/cocoapods-imy-bin/command/bin/code.rb	/^        def source_root$/;"	f	class:Pod.Command.Bin.Code
+sources_manager	./lib/cocoapods-imy-bin/helpers/sources_helper.rb	/^    def sources_manager$/;"	f	class:CBin.SourcesHelper
+sources_option	./lib/cocoapods-imy-bin/helpers/sources_helper.rb	/^    def sources_option(code_dependencies, additional_sources)$/;"	f	class:CBin.SourcesHelper
+spec_creator	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^      def spec_creator$/;"	f	class:CBin.Upload.Helper
+spec_file	./lib/cocoapods-imy-bin/command/bin/archive.rb	/^        def spec_file$/;"	f	class:Pod.Command.Bin.Archive
+spec_file	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def spec_file$/;"	f	class:Pod.Command.Bin
+spec_file	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^          def spec_file$/;"	f	class:Pod.Command.Bin.Spec.Create
+spec_file	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^          def spec_file$/;"	f	class:Pod.Command.Bin.Repo.Push
+spec_file	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def spec_file$/;"	f	class:CBin.Build
+spec_files	./lib/cocoapods-imy-bin/helpers/spec_files_helper.rb	/^    def spec_files$/;"	f	class:CBin.SpecFilesHelper
+spec_header_dir	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^      def Utils.spec_header_dir(spec)$/;"	F	class:CBin.Build.Utils
+spec_module_dir	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^      def Utils.spec_module_dir(spec)$/;"	F	class:CBin.Build.Utils
+specification_path	./lib/cocoapods-imy-bin/native/source.rb	/^    def specification_path(name, version)$/;"	f	class:Pod.Source
+specifications_for_dependency	./lib/cocoapods-imy-bin/native/resolver.rb	/^      def specifications_for_dependency(dependency, additional_requirements_frozen = [])$/;"	f	class:Pod.Resolver
+static_libs_in_sandbox	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def static_libs_in_sandbox(build_dir = 'build')$/;"	f	class:CBin.Framework
+sync_config	./lib/cocoapods-imy-bin/config/config.rb	/^    def sync_config(config)$/;"	f	class:CBin.Config
+sync_config	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def sync_config(config)$/;"	f	class:CBin.Config_Hot_Key
+target_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def target_name$/;"	f	class:CBin.Config.Builder
+target_name	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def target_name$/;"	f	class:CBin.Framework
+template_hash	./lib/cocoapods-imy-bin/config/config.rb	/^    def template_hash$/;"	f	class:CBin.Config
+template_hash	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def template_hash$/;"	f	class:CBin.Config_Hot_Key
+template_spec_file	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def template_spec_file$/;"	f	class:Pod.Command.Bin
+template_spec_file	./lib/cocoapods-imy-bin/command/bin/spec/create.rb	/^          def template_spec_file$/;"	f	class:Pod.Command.Bin.Spec.Create
+template_spec_file	./lib/cocoapods-imy-bin/command/bin/spec/push.rb	/^          def template_spec_file$/;"	f	class:Pod.Command.Bin.Repo.Push
+update_repositories	./lib/cocoapods-imy-bin/native/analyzer.rb	/^      def update_repositories$/;"	f	class:Pod.Installer.Analyzer
+upload	./lib/cocoapods-imy-bin/helpers/upload_helper.rb	/^      def upload$/;"	f	class:CBin.Upload.Helper
+use_binaries!	./lib/cocoapods-imy-bin/native/podfile.rb	/^      def use_binaries!(flag = true)$/;"	f	class:Pod.Podfile.DSL
+use_binaries?	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def use_binaries?$/;"	f	class:Pod.Podfile
+use_binaries_selector	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def use_binaries_selector$/;"	f	class:Pod.Podfile
+use_binaries_with_spec_selector!	./lib/cocoapods-imy-bin/native/podfile.rb	/^      def use_binaries_with_spec_selector!(&block)$/;"	f	class:Pod.Podfile.DSL
+use_source_pods	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def use_source_pods$/;"	f	class:Pod.Podfile
+uses_frameworks	./lib/cocoapods-imy-bin/helpers/build_utils.rb	/^      def Utils.uses_frameworks?$/;"	F	class:CBin.Build.Utils
+valid_bin_plugin	./lib/cocoapods-imy-bin/native/podfile.rb	/^    def valid_bin_plugin$/;"	f	class:Pod.Podfile
+valid_possibility_version_for_root_name?	./lib/cocoapods-imy-bin/native/resolver.rb	/^      def valid_possibility_version_for_root_name?(requirement, activated, spec)$/;"	f	class:Pod
+valid_sources	./lib/cocoapods-imy-bin/helpers/sources_helper.rb	/^    def valid_sources(code_dependencies = false)$/;"	f	class:CBin.SourcesHelper
+validate!	./lib/cocoapods-imy-bin/command/bin.rb	/^      def validate!$/;"	f	class:Pod.Command.Bin
+validate!	./lib/cocoapods-imy-bin/command/bin/auto.rb	/^        def validate!$/;"	f	class:Pod.Command.Bin.Auto
+validate!	./lib/cocoapods-imy-bin/config/config.rb	/^    def validate!$/;"	f	class:CBin.Config
+validate!	./lib/cocoapods-imy-bin/config/config_hot_key.rb	/^    def validate!$/;"	f	class:CBin.Config_Hot_Key
+validate!	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def validate!$/;"	f	class:CBin.Specification.Creator
+validate!	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def validate!$/;"	f	class:CBin.SpecificationSource.Creator
+validate_root_name	./lib/cocoapods-imy-bin/native/linter.rb	/^      def validate_root_name$/;"	f	class:Pod.Specification.Linter
+validate_source_url	./lib/cocoapods-imy-bin/native/validator.rb	/^    def validate_source_url(spec); end$/;"	f	class:Pod.Validator
+verify_source_is_secure	./lib/cocoapods-imy-bin/native/pod_source_installer.rb	/^      def verify_source_is_secure(root_spec)$/;"	f	class:Pod.Installer.PodSourceInstaller
+verify_swift_pods_have_module_dependencies	./lib/cocoapods-imy-bin/native/target_validator.rb	/^        def verify_swift_pods_have_module_dependencies$/;"	f	class:Pod.Installer.Xcode.TargetValidator
+warn	./spec/spec_helper.rb	/^      def warn(message = '', actions = [])$/;"	f	class:Pod.UI
+wellcome_message	./lib/cocoapods-imy-bin/config/config_asker.rb	/^      def wellcome_message$/;"	f	class:CBin.Config.Asker
+wellcome_message	./lib/cocoapods-imy-bin/config/config_hot_key_asker.rb	/^      def wellcome_message$/;"	f	class:CBin.Config_Hot_Key.Asker
+white_pod_list	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def white_pod_list$/;"	f	class:CBin.Config.Builder
+workspace_directory	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def workspace_directory$/;"	f	class:CBin.Build
+write_lockfiles	./lib/cocoapods-imy-bin/native/installer.rb	/^    def write_lockfiles$/;"	f
+write_spec_file	./lib/cocoapods-imy-bin/helpers/spec_creator.rb	/^      def write_spec_file(file = filename)$/;"	f	class:CBin.Specification
+write_spec_file	./lib/cocoapods-imy-bin/helpers/spec_source_creator.rb	/^      def write_spec_file(file = filename)$/;"	f	class:CBin.SpecificationSource.Creator
+xcode_BuildProductsPath_dir	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def xcode_BuildProductsPath_dir$/;"	f	class:CBin.Config.Builder
+xcode_build_dir	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def xcode_build_dir$/;"	f	class:CBin.Config.Builder
+xcode_build_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def xcode_build_name$/;"	f	class:CBin.Config.Builder
+xcodebuild	./lib/cocoapods-imy-bin/helpers/framework_builder.rb	/^      def xcodebuild(defines = '', args = '', build_dir = 'build', build_model = 'Debug')$/;"	f	class:CBin.Framework
+zip_dir	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def zip_dir$/;"	f	class:CBin.Config.Builder
+zip_dir	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def zip_dir$/;"	f	class:CBin.Build
+zip_dir_name	./lib/cocoapods-imy-bin/config/config_builder.rb	/^      def zip_dir_name$/;"	f	class:CBin.Config.Builder
+zip_static_framework	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def zip_static_framework$/;"	f	class:CBin.Build
+zip_static_library	./lib/cocoapods-imy-bin/helpers/build_helper.rb	/^      def zip_static_library$/;"	f	class:CBin.Build
